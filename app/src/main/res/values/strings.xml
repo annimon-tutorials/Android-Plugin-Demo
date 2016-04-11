@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidPluginDemo</string>
+    <string name="plugin_not_installed">Plugin application is not installed</string>
+    <string name="launch_plugin_activity">Launch plugin activity</string>
+    <string name="invoke_code">Invoke code from plugin</string>
+    <string name="invoke_library">Invoke code from library.apk</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Plugin</string>
+    <string name="plugin_text">Greetings from Plugin Application</string>
+</resources>
